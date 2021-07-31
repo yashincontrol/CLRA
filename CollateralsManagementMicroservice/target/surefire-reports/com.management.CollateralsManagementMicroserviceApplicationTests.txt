@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.management.CollateralsManagementMicroserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.663 s - in com.management.CollateralsManagementMicroserviceApplicationTests

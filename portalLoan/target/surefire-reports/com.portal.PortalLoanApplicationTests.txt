@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.portal.PortalLoanApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.881 s - in com.portal.PortalLoanApplicationTests
